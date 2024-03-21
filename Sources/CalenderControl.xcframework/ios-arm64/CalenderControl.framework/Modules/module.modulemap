@@ -1,0 +1,6 @@
+framework module CalenderControl {
+  umbrella header "CalenderControl.h"
+  export *
+
+  module * { export * }
+}
